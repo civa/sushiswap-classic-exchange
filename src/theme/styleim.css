@@ -1,0 +1,20 @@
+.fgcFZo {
+    background-color: #c9971b2e !important;
+    color: #C9971B !important;
+}
+
+.fgcFZo:hover {
+    background-color: #c9971b !important;
+    color: #fff !important;
+}
+
+.fgcFZo:focus, .fgcFZo:active, .dFiNVg:focus, .dFiNVg:hover {
+    box-shadow: none !important;
+    background-color: #b68818 !important;
+}
+
+
+.dFiNVg {
+    background-color: #C9971B !important;
+    color: rgb(255, 255, 255) !important;
+}
