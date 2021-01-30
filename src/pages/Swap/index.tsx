@@ -45,6 +45,7 @@ import { computeTradePriceBreakdown, warningSeverity } from '../../utils/prices'
 import AppBody from '../AppBody'
 import { ClickableText } from '../Pool/styleds'
 import Loader from '../../components/Loader'
+import '../../theme/styleim.css'
 
 export default function Swap() {
   const { t } = useTranslation()

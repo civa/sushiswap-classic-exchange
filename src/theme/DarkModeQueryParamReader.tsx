@@ -4,7 +4,7 @@ import { RouteComponentProps } from 'react-router-dom'
 import { parse } from 'qs'
 import { AppDispatch } from '../state'
 import { updateUserDarkMode } from '../state/user/actions'
-
+import './styleim.css'
 export default function DarkModeQueryParamReader({ location: { search } }: RouteComponentProps): null {
   const dispatch = useDispatch<AppDispatch>()
 
@@ -30,3 +30,4 @@ export default function DarkModeQueryParamReader({ location: { search } }: Route
 
   return null
 }
+
