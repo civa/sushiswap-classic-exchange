@@ -1,10 +1,10 @@
-# SushiSwap Classic Exchange Interface
+# FarSwap Classic Exchange Interface
 
-Forked from [Uniswap/uniswap-interface](https://github.com/Uniswap/uniswap-interface), and updated to work with SushiSwap contracts.
+Forked from [Uniswap/uniswap-interface](https://github.com/Uniswap/uniswap-interface), and updated to work with FarSwap contracts.
 
-## Accessing the SushiSwap Classic Exchange Interface
+## Accessing the FarSwap Classic Exchange Interface
 
-To access the SushiSwap Exchange, visit [exchange.sushiswapclassic.org](https://exchange.sushiswapclassic.org/#/) or [exchange.sushiswap.fi](https://exchange.sushiswap.fi/#/).
+To access the FarSwap Exchange, visit [exchange.FarSwapclassic.org](https://exchange.FarSwapclassic.org/#/) or [exchange.FarSwap.fi](https://exchange.FarSwap.fi/#/).
 
 ## Development
 

@@ -95,15 +95,15 @@ export default function Menu() {
       </StyledMenuButton>
       {open && (
         <MenuFlyout>
-          <MenuItem id="link" href="https://sushiswap.vision/">
+          <MenuItem id="link" href="https://FarSwap.vision/">
             <PieChart size={14} />
             {t('analytics')}
           </MenuItem>
-          <MenuItem id="link" href="https://sushiswapclassic.org/staking">
+          <MenuItem id="link" href="https://FarSwapclassic.org/staking">
             <DollarSign size={14} />
             {t('stake')}
           </MenuItem>
-          <MenuItem id="link" href="https://sushiswapclassic.org/farms">
+          <MenuItem id="link" href="https://FarSwapclassic.org/farms">
             <Sunrise size={14} />
             {t('farm')}
           </MenuItem>
@@ -111,7 +111,7 @@ export default function Menu() {
             <MessageCircle size={14} />
             {t('discord')}
           </MenuItem>
-          <MenuItem id="link" href="https://github.com/jiro-ono/sushiswap-classic-interface">
+          <MenuItem id="link" href="https://github.com/jiro-ono/FarSwap-classic-interface">
             <Code size={14} />
             {t('code')}
           </MenuItem>
